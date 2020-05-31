@@ -35,6 +35,6 @@ android {
 
 dependencies {
     implementation 'androidx.annotation:annotation:1.0.1'
-    implementation 'com.google.android.gms:play-services-safetynet:16.0.0'
+    implementation 'com.google.android.gms:play-services-safetynet:17.0.0'
     implementation 'com.nimbusds:nimbus-jose-jwt:6.3.1'
 }
